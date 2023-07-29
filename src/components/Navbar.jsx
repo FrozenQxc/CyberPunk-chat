@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className='user'>
         <img src="https://i.pinimg.com/564x/63/ca/76/63ca7619c901a81e894586f072c2b848.jpg" alt="" />
         <span>Джонни Сильверхенд</span>
-        <button>Выйти</button>
+        <button> <a href='/Register'> Выйти</a></button>
       </div>
     </div>
   )
